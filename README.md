@@ -1,4 +1,4 @@
-## Hi there 👋
+# Jose Aparicio
 
 <!--
 **jluiscool/jluiscool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
