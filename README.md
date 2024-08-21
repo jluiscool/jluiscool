@@ -1,5 +1,6 @@
 # Jose Aparicio
 
+**`Digital StoryTeler (Developer / Engineer / Director)`**
 <!--
 **jluiscool/jluiscool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
