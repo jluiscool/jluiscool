@@ -40,14 +40,7 @@ Things I code with:
     Whether it's coding, making music, or acting, we're all telling a story. And while the mediums have changed, the messages haven't.
 </p>
 
-<div style="">
-  <embed
-    src="https://www.youtube.com/watch?v=Q_Dstho-yx8"
-    wmode="transparent"
-    type="video/mp4"
-    width="100%" height="100%"
-    allow="autoplay; encrypted-media; picture-in-picture"
-    allowfullscreen
-    title="Keyboard Cat"
-  >
-</div>
+<ul>
+    <li><a href="https://open.spotify.com/track/3eGRiruhi09cQ1ldDZ4kqV?si=77eaecb0010b4b9c" target="_blank" rel="noopener noreferrer">Music</a></li>
+    <li><a href="https://www.youtube.com/watch?v=Zk6gr0Un1vs" target="_blank" rel="noopener noreferrer">Acting/Directing</a></li>
+</ul>
