@@ -4,6 +4,8 @@
 
 Hello! I'm a fullstack software developer. I was born in Peru, and live in the U.S. When I'm not coding you can find me exercising/gaming/playing guitar.
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 Things I code with:
 
 <p>
@@ -31,6 +33,8 @@ Things I code with:
 <li>📫 How to reach me: ... <a href="https://joseaparicio.dev" target="_blank" rel="noopener noreferrer">Personal Website</a> or <a href="https://www.linkedin.com/in/jfacade" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
 <li>⚡ Fun fact: I love anime and have been doing voice overs for the past decade <a href="https://doblaje.fandom.com/es/wiki/Jos%C3%A9_Aparicio" target="_blank" rel="noopener noreferrer">Dubbing Wiki</a></li>
 </ul>
+
+<img class="m-0 max-h-full max-w-full" src="https://preview.redd.it/coding-by-pixel-jeff-v0-n8agw6z2smyb1.gif?width=640&amp;crop=smart&amp;format=png8&amp;s=679eed1a65d31994e6f7220e9be8fca509c000ff" alt="CDN media">
 
 <!--
 **jluiscool/jluiscool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
