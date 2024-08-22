@@ -26,10 +26,10 @@ Things I code with:
 </p>
 
 <ul>
-<li>🔭 I’m currently working on ... <a href="https://www.gamepayy.com">Gamepayy</a></li>
-<li>🌱 I’m currently pursuing my masters at ... <a href="https://www.colorado.edu/">University of Colorado Boulder</a></li>
-<li>📫 How to reach me: ... <a href="https://joseaparicio.dev">Personal Website</a> or <a href="https://www.linkedin.com/in/jfacade">LinkedIn</a></li>
-<li>⚡ Fun fact: I love anime and have been doing voice overs for the past decade <a href="https://doblaje.fandom.com/es/wiki/Jos%C3%A9_Aparicio">Dubbing Wiki</a><li>
+<li>🔭 I’m currently working on ... <a href="https://www.gamepayy.com" target="_blank" rel="noopener noreferrer">Gamepayy</a></li>
+<li>🌱 I’m currently pursuing my masters at ... <a href="https://www.colorado.edu/" target="_blank" rel="noopener noreferrer">University of Colorado Boulder</a></li>
+<li>📫 How to reach me: ... <a href="https://joseaparicio.dev" target="_blank" rel="noopener noreferrer">Personal Website</a> or <a href="https://www.linkedin.com/in/jfacade" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+<li>⚡ Fun fact: I love anime and have been doing voice overs for the past decade <a href="https://doblaje.fandom.com/es/wiki/Jos%C3%A9_Aparicio" target="_blank" rel="noopener noreferrer">Dubbing Wiki</a></li>
 </ul>
 
 <!--
