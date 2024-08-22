@@ -27,6 +27,9 @@ Things I code with:
 
 <ul>
 <li>🔭 I’m currently working on ... <a href="https://www.gamepayy.com">Gamepayy</a></li>
+<li>🌱 I’m currently pursuing my masters at ... <a href="https://www.colorado.edu/">University of Colorado Boulder</a></li>
+<li>📫 How to reach me: ... <a href="https://joseaparicio.dev">Personal Website</a> or <a href="https://www.linkedin.com/in/jfacade">LinkedIn</a></li>
+<li>⚡ Fun fact: I love anime and have been doing voice overs for the past decade <a href="https://doblaje.fandom.com/es/wiki/Jos%C3%A9_Aparicio">Dubbing Wiki</a><li>
 </ul>
 
 <!--
