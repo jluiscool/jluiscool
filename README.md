@@ -40,6 +40,7 @@ Things I code with:
     Whether it's coding, making music, or acting, we're all telling a story. And while the mediums have changed, the messages haven't.
 </p>
 
+<div style="">
   <embed
     src="https://www.youtube.com/watch?v=Q_Dstho-yx8"
     wmode="transparent"
@@ -49,3 +50,4 @@ Things I code with:
     allowfullscreen
     title="Keyboard Cat"
   >
+</div>
