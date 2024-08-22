@@ -2,7 +2,7 @@
 
 **`Digital StoryTeller (Developer / Audio Engineer / Director)`**
 
-Hello! I'm a fullstack software developer. I was born in Peru, and live in the U.S. When I'm not coding you can find me exercising/gaming/playing guitar.
+Hello! I'm a fullstack software developer. I was born in Peru, and live in the U.S. When I'm not coding you can find me exercising/gaming/playing guitar. 😄
 
 
 <img class="" src="https://preview.redd.it/coding-by-pixel-jeff-v0-n8agw6z2smyb1.gif?width=640&amp;crop=smart&amp;format=png8&amp;s=679eed1a65d31994e6f7220e9be8fca509c000ff" alt="CDN media">
@@ -36,5 +36,18 @@ Things I code with:
 <li>⚡ Fun fact: I love anime and have been doing voice overs for the past decade <a href="https://doblaje.fandom.com/es/wiki/Jos%C3%A9_Aparicio" target="_blank" rel="noopener noreferrer">Dubbing Wiki</a></li>
 </ul>
 
+<p>
+    Whether it's coding, making music, or acting, we're all telling a story. And while the mediums have changed, the messages haven't.
+</p>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3eGRiruhi09cQ1ldDZ4kqV?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div style="width: 560px; height: 315px; float: none; clear: both; margin: 2px auto;">
+  <embed
+    src="https://www.youtube.com/watch?v=Q_Dstho-yx8"
+    wmode="transparent"
+    type="video/mp4"
+    width="100%" height="100%"
+    allow="autoplay; encrypted-media; picture-in-picture"
+    allowfullscreen
+    title="Keyboard Cat"
+  >
+</div>
