@@ -4,7 +4,9 @@
 
 Hello! I'm a fullstack software developer. I was born in Peru, and live in the U.S. When I'm not coding you can find me exercising/gaming/playing guitar.
 
-<img class="m-0 max-h-full max-w-full" src="https://preview.redd.it/coding-by-pixel-jeff-v0-n8agw6z2smyb1.gif?width=640&amp;crop=smart&amp;format=png8&amp;s=679eed1a65d31994e6f7220e9be8fca509c000ff" alt="CDN media">
+
+<img class="" src="https://preview.redd.it/coding-by-pixel-jeff-v0-n8agw6z2smyb1.gif?width=640&amp;crop=smart&amp;format=png8&amp;s=679eed1a65d31994e6f7220e9be8fca509c000ff" alt="CDN media">
+
 
 Things I code with:
 
@@ -15,7 +17,6 @@ Things I code with:
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -27,6 +28,7 @@ Things I code with:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+
 <ul>
 <li>🔭 I’m currently working on ... <a href="https://www.gamepayy.com" target="_blank" rel="noopener noreferrer">Gamepayy</a></li>
 <li>🌱 I’m currently pursuing my masters at ... <a href="https://www.colorado.edu/" target="_blank" rel="noopener noreferrer">University of Colorado Boulder</a></li>
@@ -35,18 +37,4 @@ Things I code with:
 </ul>
 
 
-
-<!--
-**jluiscool/jluiscool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3eGRiruhi09cQ1ldDZ4kqV?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
