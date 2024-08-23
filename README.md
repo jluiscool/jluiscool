@@ -2,7 +2,7 @@
 
 **`Digital StoryTeller (Developer / Audio Engineer / Director)`**
 
-Hello! I'm a fullstack software developer. I was born in Peru, and live in the U.S. When I'm not coding you can find me exercising/gaming/playing guitar. 😄
+Hello! I'm a fullstack software developer. When I'm not coding you can find me exercising/gaming/playing guitar. 😄
 
 
 <img class="" src="https://preview.redd.it/coding-by-pixel-jeff-v0-n8agw6z2smyb1.gif?width=640&amp;crop=smart&amp;format=png8&amp;s=679eed1a65d31994e6f7220e9be8fca509c000ff" alt="CDN media">
