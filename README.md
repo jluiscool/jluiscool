@@ -44,3 +44,7 @@ Things I code with:
     <li><a href="https://open.spotify.com/track/3eGRiruhi09cQ1ldDZ4kqV?si=77eaecb0010b4b9c" target="_blank" rel="noopener noreferrer">Music</a></li>
     <li><a href="https://www.youtube.com/watch?v=Zk6gr0Un1vs" target="_blank" rel="noopener noreferrer">Acting/Directing</a></li>
 </ul>
+
+<p>
+  Part of: <a href="https://grammerhub.org/" target="_blank" rel="noopener noreferrer">Grammerhub</a>
+</p>
