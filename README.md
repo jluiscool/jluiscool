@@ -46,5 +46,5 @@ Things I code with:
 </ul>
 
 <p>
-  Part of: <a href="https://grammerhub.org/" target="_blank" rel="noopener noreferrer">Grammerhub</a>
+  Member of: <a href="https://grammerhub.org/" target="_blank" rel="noopener noreferrer">Grammerhub</a>
 </p>
